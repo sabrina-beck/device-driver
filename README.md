@@ -1,4 +1,4 @@
-# Projeto 2 - Implementação de chamadas de sistema
+# Projeto 3 - Implementação de um device driver
 ## Grupo 7
 - Caio Cesar de Campos Silva - 160138
 - Lucas Cleto de Oliveira - 156345
